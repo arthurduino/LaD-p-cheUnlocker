@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "La D\u00e9p\u00eache UNLOCK",
   "version": "2.1",
-  "description": "Obtenir un accès gratuit aux articles payants du site d'actualité "La Dépêche"",
+  "description": "Obtenir un accès gratuit aux articles payants du site d'actualité \"La Dépêche\"",
   "permissions": [
     "activeTab",
     "tabs",
